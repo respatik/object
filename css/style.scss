@@ -1,0 +1,35 @@
+$font-stack: 'Alata', sans-serif;
+
+
+body{
+    background-color: #fafba4;
+    font: 100% $font-stack;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.columns .is-desktop{
+    padding: 6em;
+    
+}
+
+.column{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+span{
+    padding: 30px;
+    margin: 10px;
+    width: 200px;
+    height: 350px;
+}
+
+span:hover{
+    border-radius: 10%;
+    background-color: #eca0b6;
+}
+

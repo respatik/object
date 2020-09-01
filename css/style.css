@@ -1,0 +1,34 @@
+body {
+  background-color: #fafba4;
+  font: 100% "Alata", sans-serif;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.columns .is-desktop {
+  padding: 6em;
+}
+
+.column {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+span {
+  padding: 30px;
+  margin: 10px;
+  width: 200px;
+  height: 350px;
+}
+
+span:hover {
+  border-radius: 10%;
+  background-color: #eca0b6;
+}
+/*# sourceMappingURL=style.css.map */
